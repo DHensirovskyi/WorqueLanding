@@ -282,7 +282,7 @@ nav {
         align-items: center;
         background: rgba(0, 0, 0, 0.8);
         backdrop-filter: blur(5px);
-        transition: top 1s ease 0s;
+        transition: top 0s ease;
         display: none;
       }
       nav .mainMenu .closeMenu {
